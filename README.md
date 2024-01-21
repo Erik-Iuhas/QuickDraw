@@ -63,22 +63,12 @@ To build the QuickDraw app into a standalone executable:
 
 4. Find the built executable in the `dist` directory.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
-- Erik Iuhas - *Initial work* - [Erik-Iuhas](https://github.com/Erik-Iuhas)
+- Erik Iuhas - [Erik-Iuhas](https://github.com/Erik-Iuhas)
 
 See also the list of [contributors](https://github.com/Erik-Iuhas/QuickDraw/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+I would like to give my thanks to Pinterest for distracting me so much that I'd rather have an offline app for doing quick studies. Cheers! 
